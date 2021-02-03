@@ -22,4 +22,4 @@ model.eval()
 
 #Embedding
 emb = model(tokens_tensor)
-print(emb)
+print(emb[1])
