@@ -1,4 +1,6 @@
-# Cubert Embedding
+# Embedding for source code
+This repository implement some popular embedding model for Java Source Code. 
+## Cubert Embedding
 * Requirements
 ```
 pip install torch==1.6.0
