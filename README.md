@@ -3,9 +3,7 @@ This repository implement some popular embedding model for Java Source Code.
 ## Cubert Embedding
 * Requirements
 ```
-pip install torch==1.6.0
-pip install pytorch-pretrained-bert==0.6.2
-pip install tensor2tensor==1.15.7
+pip3 install -r cubert_requirements.txt
 ```
 * Running 
 1. Download pretrained cubert model in https://console.cloud.google.com/storage/browser/cubert/20200913_Java_Deduplicated/pre_trained_model_deduplicated__epochs_1__length_1024. 
